@@ -28,6 +28,7 @@ Simple, lightweight, and open-source.
 ### 📸 Preview
 ![Screenshot 2025-06-23 140855](https://github.com/user-attachments/assets/a65e0484-ce0a-4db3-96df-f524bacb6474)
 
+![Screenshot 2025-06-23 140914](https://github.com/user-attachments/assets/c3f26248-84be-4c71-a63e-71d39b7b3ff2)
 
 ### 🚀 How to Use
 
