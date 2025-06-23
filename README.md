@@ -25,6 +25,9 @@ Simple, lightweight, and open-source.
 
 ---
 
+### 📸 Preview
+![FloatingProgressBar Preview](assets/Screenshot 2025-06-23 140855.png)
+
 ### 🚀 How to Use
 
 #### 👉 Run the App
