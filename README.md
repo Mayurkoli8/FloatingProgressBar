@@ -26,7 +26,8 @@ Simple, lightweight, and open-source.
 ---
 
 ### 📸 Preview
-![FloatingProgressBar Preview](assets/Screenshot 2025-06-23 140855.png)
+![Screenshot 2025-06-23 140855](https://github.com/user-attachments/assets/a65e0484-ce0a-4db3-96df-f524bacb6474)
+
 
 ### 🚀 How to Use
 
